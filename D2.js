@@ -74,7 +74,7 @@ SCRIVI QUI LA TUA RISPOSTA */
 
 let carrello;
 carrello = 300;
-let carrelloFinal = carrello * 0.2;
+let carrelloFinal = carrello * 0.8;
 let shipment;
 let totalShoppingCart;
 
